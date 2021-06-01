@@ -86,7 +86,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by [@Matimateokol](https://github.com/Matimateokol) [] [] - feel free to contact us!
 
 
 <!-- Optional -->
