@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Shop Assistant</string>
+    <string name="witaj_w_shop_assistant">Witaj w Shop Assistant!</string>
+    <string name="cofnij">Cofnij</string>
+    <string name="przejd_dalej">Przejdź dalej</string>
 </resources>
