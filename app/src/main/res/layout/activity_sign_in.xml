@@ -22,7 +22,7 @@
         app:layout_constraintVertical_bias="0.773" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/EmailAddress"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="312dp"
@@ -41,7 +41,7 @@
         tools:ignore="TextContrastCheck" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/PasswordField"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@drawable/background_edit_text"
@@ -55,7 +55,7 @@
         app:layout_constraintBottom_toTopOf="@+id/zaloguj"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress"
+        app:layout_constraintTop_toBottomOf="@+id/EmailAddress"
         tools:ignore="TextContrastCheck" />
 
 
