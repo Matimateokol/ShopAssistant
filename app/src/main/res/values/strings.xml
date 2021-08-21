@@ -3,4 +3,7 @@
     <string name="witaj_w_shop_assistant">Witaj w Shop Assistant!</string>
     <string name="cofnij">Cofnij</string>
     <string name="przejd_dalej">Przejdź dalej</string>
+    <string name="zaloguj_si">Zaloguj się</string>
+    <string name="e_mail">e-mail</string>
+    <string name="haslo">hasło</string>
 </resources>
