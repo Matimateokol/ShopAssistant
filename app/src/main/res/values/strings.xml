@@ -6,4 +6,7 @@
     <string name="zaloguj_si">Zaloguj się</string>
     <string name="e_mail">e-mail</string>
     <string name="haslo">hasło</string>
+    <string name="shopassistant_time_is_money">ShopAssistant_Time_Is_Money</string>
+    <string name="forgot_password"><u>Nie pamiętam hasła</u></string>
+    <string name="sign_up"><u>Nie posiadasz konta? Zarejestruj się!</u></string>
 </resources>
