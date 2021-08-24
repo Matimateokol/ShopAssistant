@@ -86,11 +86,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@Matimateokol](https://github.com/Matimateokol) [] [] - feel free to contact us!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by [@Matimateokol](https://github.com/Matimateokol) [@MaciejSzkaradzinski](https://github.com/MaciejSzkaradzinski) [@Rados123](https://github.com/Rados123) - feel free to contact us!
