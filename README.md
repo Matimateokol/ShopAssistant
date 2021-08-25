@@ -1,4 +1,5 @@
 # HCI-app
+![image](./trademarks/App_Logotype.png)
 
 ## Project name: 
 "ShopAssistant" mobile application
@@ -8,6 +9,7 @@ This is a concept of app designed to speed up the shopping and payment process. 
 The main purpose is to reduce the time of which customers spend doing shopping and to avoid queues.
 
 ## Goal- and task-oriented design:
+[User requirements](./Aplikacja.docx.pdf)
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -37,25 +39,25 @@ The main purpose is to reduce the time of which customers spend doing shopping a
 - Tech 3 - version 3.0
 
 
-## Features
+## Features (TODO)
 List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
 
 
-## Screenshots
+## Screenshots (TODO)
 ![Example screenshot](./img/screenshot.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
-## Setup
+## Setup (TODO)
 What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
 
-## Usage
+## Usage (TODO)
 How does one go about using it?
 Provide various use cases and code examples here.
 
@@ -63,10 +65,10 @@ Provide various use cases and code examples here.
 
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: _in progress_
 
 
-## Room for Improvement
+## Room for Improvement (TODO)
 Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
@@ -78,7 +80,7 @@ To do:
 - Feature to be added 2
 
 
-## Acknowledgements
+## Acknowledgements (TODO)
 Give credit here.
 - This project was inspired by...
 - This project was based on [this tutorial](https://www.example.com).
