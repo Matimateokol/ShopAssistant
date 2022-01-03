@@ -88,4 +88,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@Matimateokol](https://github.com/Matimateokol) [@MaciejSzkaradzinski](https://github.com/MaciejSzkaradzinski) [@Rados123](https://github.com/Rados123) - feel free to contact us!
+Created by [@Matimateokol](https://github.com/Matimateokol) [@tomquess](https://github.com/tomquess) [@Rados123](https://github.com/Rados123) - feel free to contact us!
