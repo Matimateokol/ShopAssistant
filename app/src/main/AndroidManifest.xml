@@ -9,14 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopAssistant">
-        <activity
-            android:name=".SignUp1"
-            android:exported="false"
-            android:label="@string/title_activity_sign_up1"
-            android:theme="@style/Theme.ShopAssistant.NoActionBar" />
         <activity android:name=".SignIn" />
-        <activity android:name=".SignUP" />
-        <activity android:name=".StartActivity1">
+        <activity android:name=".SignUp" />
+        <activity android:name=".StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

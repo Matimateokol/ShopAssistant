@@ -3,7 +3,6 @@ package com.example.shopassistant;
 import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
@@ -17,11 +16,9 @@ public final class StartActivity extends AppCompatActivity {
         this.setContentView(R.layout.activity_start);
 
         Button button = (Button)this.findViewById(R.id.start_btn);
-        button.setOnClickListener((OnClickListener)(new OnClickListener() {
-            public final void onClick(View it) {
-                Intent intent = new Intent((Context) StartActivity.this, SignIn.class);
-                StartActivity.this.startActivity(intent);
-            }
+        button.setOnClickListener((OnClickListener)(it -> {
+            Intent intent = new Intent((Context) StartActivity.this, SignIn.class);
+            StartActivity.this.startActivity(intent);
         }));
     }
 }
