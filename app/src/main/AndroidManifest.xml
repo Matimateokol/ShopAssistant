@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShopAssistant">
-        <activity android:name=".SignIn"></activity>
-        <activity android:name=".SignUP" />
+        <activity android:name=".SignIn" />
+        <activity android:name=".SignUp" />
         <activity android:name=".StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
